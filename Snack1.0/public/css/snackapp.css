@@ -1,0 +1,239 @@
+
+body{
+    background-color: rgb(245, 254, 229);
+}
+
+a{
+    text-decoration: none;
+}
+
+.member_infomation{
+    color:black;
+    font-size: 10;
+}
+
+.headtitle{
+    background-color:rgb(250, 189, 236);
+    color:aliceblue;
+}
+.member_wrapper{
+    padding-top: 10px;
+}
+
+.member_image{
+    border-width: thick;
+    border-style:solid;
+    border-color:rgb(221, 222, 216);
+    ;
+    padding-top:0px;
+    align-content:center;
+    border-radius: 100%;
+}
+
+.deletion{
+    text-decoration: none;
+    color:red;
+    font-size: 10px;
+}
+
+
+
+
+/* .limit{
+    color:rgb(0, 0, 0);
+    background-color:aquamarine;
+
+}
+.limit:hover{
+    color:rgb(0, 0, 0);
+    background-color: rgb(238, 255, 5);
+    
+}
+
+.unlimit{
+    color:rgb(0, 0, 0);
+    background-color: rgb(238, 255, 5);
+}
+
+.unlimit:hover{
+    color:rgb(0, 0, 0);
+    background-color:aquamarine;
+}
+ */
+
+
+.limit{
+    color:rgb(0, 0, 0);
+    background-color:aquamarine;
+
+}
+.limit:hover{
+    color:rgb(0, 0, 0);
+    background-color: #ffbf1f;
+    
+}
+
+.limited{
+    color:rgb(0, 0, 0);
+    background-color: rgb(238, 255, 5);
+}
+
+.limited:hover{
+    color:rgb(0, 0, 0);
+    background-color:#ffbf1f;
+}
+
+
+
+
+
+
+.before_nice{
+    color:yellow;
+    background-color: #ffbf1f;
+}
+.after_nice{
+    color:yellow;
+    background-color: #ffbf1f;
+}
+
+.before_nice:hover{
+    color:pink;
+}
+
+.after_nice:hover{
+    color:pink;
+}
+
+.likes_cnt{
+    color:pink;
+    margin-top:0px;
+    size-adjust: 10px;
+}
+
+
+
+.recomended_button{
+    color:azure;
+    background-color: aqua;
+    border-color:aqua;
+    border-radius: 10%;
+}
+
+.my_like_button{
+    color:yellow;
+    background-color: orange;
+    border-color:orange;
+    border-radius: 100%;
+}
+
+.member_image2{
+    border-radius:100%;
+}
+
+.coment2{
+    background-color: rgb(196, 245, 194);
+}
+
+.search{
+    color:rgb(20, 23, 184);
+    border-radius: 10%;
+    border-color:chartreuse;
+}
+
+.edit{
+    text-decoration: none;
+    color:purple;
+    font-size: 10px;
+}
+
+.form_conf{
+    text-align: left;
+}
+
+.form_conf form{
+    display: inline-block;
+    margin: 0 10px;
+}
+
+
+
+/* tableの設定 */
+table.suggest-items-table{
+    width:100px;
+}
+
+.result-search{
+    width:90%;
+}
+
+.result-search th{
+    width:20%;
+}
+
+table.suggest-items th{
+    width:200px;
+}
+
+
+
+p.suggest-message{
+    font-size:15px;
+}
+
+
+.upper-links{
+    font-size:15px;
+}
+
+.same-width-list select{
+    width: 200px;
+}
+
+
+
+
+
+
+.likes{
+    justify-content:right;
+    align-items:right;
+    color:rgb(226, 228, 230);
+    
+}
+.snack-like{
+    cursor:pointer;
+}
+.like-counter{
+    color: yellow;
+    background-color: #ffbf1f;
+}
+
+.before_like{
+    color:yellow;
+    background-color: #ffbf1f;
+    cursor:pointer;
+}
+
+.after_like{
+    color:yellow;
+    background-color :#ffbf1f;
+    cursor:pointer;
+}
+.before_like:hover{
+    color:pink;
+}
+
+.after_like:hover{
+    color:pink;
+}
+
+
+.liked{
+    color: yellow;
+}
+
+.search{
+    height:20px;
+    width: 100px;
+}
