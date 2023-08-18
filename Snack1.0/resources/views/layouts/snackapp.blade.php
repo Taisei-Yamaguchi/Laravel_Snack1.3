@@ -24,7 +24,7 @@
             
         </style>
          <link rel="stylesheet" href="{{asset('/css/snackapp.css')}}"><!--ここでcssを読み込む-->
-         
+         @yield('css')
     </head>
     <body>
         <h1>@yield('title')</h1>
